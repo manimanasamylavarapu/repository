@@ -1,0 +1,1528 @@
+<repository lastmodified='20140320025229.338'>
+  <resource id='javax.measure.unit-api-core/0.3.0.SNAPSHOT' symbolicname='javax.measure.unit-api-core' presentationname='Unit API Core' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-core/0.3-SNAPSHOT/unit-api-core-0.3-SNAPSHOT.jar' version='0.3.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>12196</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-core'/>
+      <p n='presentationname' v='Unit API Core'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.exception'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function,javax.measure.exception'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.function'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.exception'/>
+    </capability>
+  </resource>
+  <resource id='javax.measure.unit-api-core/0.2.0.SNAPSHOT' symbolicname='javax.measure.unit-api-core' presentationname='Unit API Core' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-core/0.2-SNAPSHOT/unit-api-core-0.2-SNAPSHOT.jar' version='0.2.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>10843</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-core'/>
+      <p n='presentationname' v='Unit API Core'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.exception'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function,javax.measure.exception'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.function'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.exception,javax.measure'/>
+    </capability>
+  </resource>
+  <resource id='javax.measure.unit-api-core/0.1.0.SNAPSHOT' symbolicname='javax.measure.unit-api-core' presentationname='Unit API Core' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-core/0.1-SNAPSHOT/unit-api-core-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>10527</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-core'/>
+      <p n='presentationname' v='Unit API Core'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.exception'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function,javax.measure.exception'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.function'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.exception,javax.measure'/>
+    </capability>
+  </resource>
+  <resource id='javax.measure.unit-api-core/0.5.0.SNAPSHOT' symbolicname='javax.measure.unit-api-core' presentationname='Unit API Core' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-core/0.5-SNAPSHOT/unit-api-core-0.5-SNAPSHOT.jar' version='0.5.0.SNAPSHOT'>
+    <description>Units of Measurement Standard - This JSR specifies Java packages for modeling and working with measurement values, quantities and their corresponding units.</description>
+    <size>9016</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-core'/>
+      <p n='presentationname' v='Unit API Core'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.function'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+  </resource>
+  <resource id='javax.measure.unit-api-core/0.4.0.SNAPSHOT' symbolicname='javax.measure.unit-api-core' presentationname='Unit API Core' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-core/0.4-SNAPSHOT/unit-api-core-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>10251</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-core'/>
+      <p n='presentationname' v='Unit API Core'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.function'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+  </resource>
+  <resource id='javax.measure.unit-api-core/0.4.0' symbolicname='javax.measure.unit-api-core' presentationname='Unit API Core' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-core/0.4/unit-api-core-0.4.jar' version='0.4.0'>
+    <description>Units of Measurement Standard</description>
+    <size>10214</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-core'/>
+      <p n='presentationname' v='Unit API Core'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.function'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+  </resource>
+  <resource id='javax.measure.unit-api-quantity/0.4.0' symbolicname='javax.measure.unit-api-quantity' presentationname='Unit API Quantities' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-quantity/0.4/unit-api-quantity-0.4.jar' version='0.4.0'>
+    <description>Units of Measurement Standard</description>
+    <size>19362</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-quantity'/>
+      <p n='presentationname' v='Unit API Quantities'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.quantity'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-quantity/0.1.0.SNAPSHOT' symbolicname='javax.measure.unit-api-quantity' presentationname='Unit API Quantities' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-quantity/0.1-SNAPSHOT/unit-api-quantity-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>19753</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-quantity'/>
+      <p n='presentationname' v='Unit API Quantities'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.quantity'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.1,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-quantity/0.2.0.SNAPSHOT' symbolicname='javax.measure.unit-api-quantity' presentationname='Unit API Quantities' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-quantity/0.2-SNAPSHOT/unit-api-quantity-0.2-SNAPSHOT.jar' version='0.2.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>19389</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-quantity'/>
+      <p n='presentationname' v='Unit API Quantities'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.quantity'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.1,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-quantity/0.3.0.SNAPSHOT' symbolicname='javax.measure.unit-api-quantity' presentationname='Unit API Quantities' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-quantity/0.3-SNAPSHOT/unit-api-quantity-0.3-SNAPSHOT.jar' version='0.3.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>19385</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-quantity'/>
+      <p n='presentationname' v='Unit API Quantities'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.quantity'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.1,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-quantity/0.4.0.SNAPSHOT' symbolicname='javax.measure.unit-api-quantity' presentationname='Unit API Quantities' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-quantity/0.4-SNAPSHOT/unit-api-quantity-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>19397</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-quantity'/>
+      <p n='presentationname' v='Unit API Quantities'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.quantity'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-quantity/0.5.0.SNAPSHOT' symbolicname='javax.measure.unit-api-quantity' presentationname='Unit API Quantities' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-quantity/0.5-SNAPSHOT/unit-api-quantity-0.5-SNAPSHOT.jar' version='0.5.0.SNAPSHOT'>
+    <description>Units of Measurement Standard - This JSR specifies Java packages for modeling and working with measurement values, quantities and their corresponding units.</description>
+    <size>19462</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-quantity'/>
+      <p n='presentationname' v='Unit API Quantities'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.quantity'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.5,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-service/0.4.0' symbolicname='javax.measure.unit-api-service' presentationname='Unit API Service' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-service/0.4/unit-api-service-0.4.jar' version='0.4.0'>
+    <description>Units of Measurement Standard</description>
+    <size>3607</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-service'/>
+      <p n='presentationname' v='Unit API Service'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.service'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure,javax.measure.format'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.4,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-service/0.5.0.SNAPSHOT' symbolicname='javax.measure.unit-api-service' presentationname='Unit API Service' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-service/0.5-SNAPSHOT/unit-api-service-0.5-SNAPSHOT.jar' version='0.5.0.SNAPSHOT'>
+    <description>Units of Measurement Standard - This JSR specifies Java packages for modeling and working with measurement values, quantities and their corresponding units.</description>
+    <size>3748</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-service'/>
+      <p n='presentationname' v='Unit API Service'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.service'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.util,javax.measure.format'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.util)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.util;version="[0.5,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-service/0.4.0.SNAPSHOT' symbolicname='javax.measure.unit-api-service' presentationname='Unit API Service' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-service/0.4-SNAPSHOT/unit-api-service-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>3644</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-service'/>
+      <p n='presentationname' v='Unit API Service'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.service'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.format'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.4,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-service/0.1.0.SNAPSHOT' symbolicname='javax.measure.unit-api-service' presentationname='Unit API Service' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-service/0.1-SNAPSHOT/unit-api-service-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>3306</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-service'/>
+      <p n='presentationname' v='Unit API Service'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.service'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.1,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.1,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-service/0.3.0.SNAPSHOT' symbolicname='javax.measure.unit-api-service' presentationname='Unit API Service' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-service/0.3-SNAPSHOT/unit-api-service-0.3-SNAPSHOT.jar' version='0.3.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>3622</size>
+    <documentation>http://jwww.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-service'/>
+      <p n='presentationname' v='Unit API Service'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.service'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.1,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.1,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-service/0.2.0.SNAPSHOT' symbolicname='javax.measure.unit-api-service' presentationname='Unit API Service' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-service/0.2-SNAPSHOT/unit-api-service-0.2-SNAPSHOT.jar' version='0.2.0.SNAPSHOT'>
+    <description>Units of Measurement Standard</description>
+    <size>3627</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-service'/>
+      <p n='presentationname' v='Unit API Service'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.service'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.1,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.1,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-format/0.4.0.SNAPSHOT' symbolicname='javax.measure.unit-api-format' presentationname='Unit-API Format' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-format/0.4-SNAPSHOT/unit-api-format-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>Formatting and Parsing</description>
+    <size>4236</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-format'/>
+      <p n='presentationname' v='Unit-API Format'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.format'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-format/0.5.0.SNAPSHOT' symbolicname='javax.measure.unit-api-format' presentationname='Unit-API Format' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-format/0.5-SNAPSHOT/unit-api-format-0.5-SNAPSHOT.jar' version='0.5.0.SNAPSHOT'>
+    <description>Formatting and Parsing</description>
+    <size>4228</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-format'/>
+      <p n='presentationname' v='Unit-API Format'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.format'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.5,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-format/0.4.0' symbolicname='javax.measure.unit-api-format' presentationname='Unit-API Format' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-format/0.4/unit-api-format-0.4.jar' version='0.4.0'>
+    <description>Formatting and Parsing</description>
+    <size>4200</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-format'/>
+      <p n='presentationname' v='Unit-API Format'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.format'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-health-demos/0.1.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.demos.unit-api-health-demos' presentationname='Unit-API Health Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-health-demos/0.1-SNAPSHOT/unit-api-health-demos-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <size>6097</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-health-demos'/>
+      <p n='presentationname' v='Unit-API Health Demos'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.health'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.1,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.1,1)"</require>
+  </resource>
+  <resource id='javax.measure.unit-api-util/0.5.0.SNAPSHOT' symbolicname='javax.measure.unit-api-util' presentationname='Unit-API Utilities' uri='file:/C:/Users/Werner/.m2/repository/javax/measure/unit-api-util/0.5-SNAPSHOT/unit-api-util-0.5-SNAPSHOT.jar' version='0.5.0.SNAPSHOT'>
+    <description>Provides common utilities such as range, data aging and unit systems.</description>
+    <size>6573</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='javax.measure.unit-api-util'/>
+      <p n='presentationname' v='Unit-API Utilities'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='javax.measure.util'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.5,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api/0.7.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api' presentationname='Units of Measurement API' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api/0.7-SNAPSHOT/unit-api-0.7-SNAPSHOT.jar' version='0.7.0.SNAPSHOT'>
+    <description>This API specifies Java packages for the programmatic, type safe handling of quantities and their expression as numbers of units.</description>
+    <size>32269</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>http://unitsofmeasure.googlecode.com/svn/trunk/unit-api/LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api'/>
+      <p n='presentationname' v='Units of Measurement API'/>
+      <p n='version' t='version' v='0.7.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.quantity'/>
+      <p n='version' t='version' v='0.7.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.unit'/>
+      <p n='version' t='version' v='0.7.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement'/>
+      <p n='version' t='version' v='0.7.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.service'/>
+      <p n='version' t='version' v='0.7.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api/0.6.2.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api' presentationname='Units of Measurement API' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api/0.6.2-SNAPSHOT/unit-api-0.6.2-SNAPSHOT.jar' version='0.6.2.SNAPSHOT'>
+    <description>This API specifies Java packages for the programmatic, type safe handling of quantities and their expression as numbers of units.</description>
+    <size>30488</size>
+    <documentation>http://code.google.com/p/unitsofmeasure</documentation>
+    <license>http://unitsofmeasure.googlecode.com/svn/trunk/unit-api/LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api'/>
+      <p n='presentationname' v='Units of Measurement API'/>
+      <p n='version' t='version' v='0.6.2.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.quantity'/>
+      <p n='version' t='version' v='0.6.2.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.unit'/>
+      <p n='version' t='version' v='0.6.2.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.service'/>
+      <p n='version' t='version' v='0.6.2.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api/0.6.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api' presentationname='Units of Measurement API' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api/0.6-SNAPSHOT/unit-api-0.6-SNAPSHOT.jar' version='0.6.0.SNAPSHOT'>
+    <description>This API specifies Java packages for the programmatic, type safe handling of quantities and their expression as numbers of units.</description>
+    <size>4998</size>
+    <documentation>http://code.google.com/p/unitsofmeasure</documentation>
+    <license>http://unitsofmeasure.googlecode.com/svn/trunk/unit-api/LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api'/>
+      <p n='presentationname' v='Units of Measurement API'/>
+      <p n='version' t='version' v='0.6.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api/0.6.1' symbolicname='org.unitsofmeasurement.unit-api' presentationname='Units of Measurement API' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api/0.6.1/unit-api-0.6.1.jar' version='0.6.1'>
+    <description>This API specifies Java packages for the programmatic, type safe handling of quantities and their expression as numbers of units.</description>
+    <size>30876</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>http://unitsofmeasure.googlecode.com/svn/trunk/unit-api/LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api'/>
+      <p n='presentationname' v='Units of Measurement API'/>
+      <p n='version' t='version' v='0.6.1'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.quantity'/>
+      <p n='version' t='version' v='0.6.1'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.unit'/>
+      <p n='version' t='version' v='0.6.1'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.service'/>
+      <p n='version' t='version' v='0.6.1'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api/0.6.0' symbolicname='org.unitsofmeasurement.unit-api' presentationname='Units of Measurement API' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api/0.6.0/unit-api-0.6.0.jar' version='0.6.0'>
+    <description>This API specifies Java packages for the programmatic, type safe handling of quantities and their expression as numbers of units.</description>
+    <size>30815</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>http://unitsofmeasure.googlecode.com/svn/trunk/unit-api/LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api'/>
+      <p n='presentationname' v='Units of Measurement API'/>
+      <p n='version' t='version' v='0.6.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.service'/>
+      <p n='version' t='version' v='0.6.0'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.unit'/>
+      <p n='version' t='version' v='0.6.0'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.quantity'/>
+      <p n='version' t='version' v='0.6.0'/>
+    </capability>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-console-demos/0.3.0' symbolicname='org.unitsofmeasurement.demos.unit-api-console-demos' presentationname='Units of Measurement API Console Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-console-demos/0.3/unit-api-console-demos-0.3.jar' version='0.3.0'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Demo.</description>
+    <size>13448</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-console-demos'/>
+      <p n='presentationname' v='Units of Measurement API Console Demos'/>
+      <p n='version' t='version' v='0.3.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.types'/>
+      <p n='version' t='version' v='0.3.0'/>
+      <p n='uses:' v='javax.measure,javax.measure.quantity,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,org.unitsofmeasurement.impl.model.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo'/>
+      <p n='version' t='version' v='0.3.0'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.demo.types,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.model.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.model.quantity;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-console-demos/0.4.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.demos.unit-api-console-demos' presentationname='Units of Measurement API Console Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-console-demos/0.4-SNAPSHOT/unit-api-console-demos-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Demo.</description>
+    <size>13507</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-console-demos'/>
+      <p n='presentationname' v='Units of Measurement API Console Demos'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.types'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.util,javax.measure.quantity,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.model.quantity,javax.measure.function,javax.measure.util'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.util,javax.measure,org.unitsofmeasurement.demo.types,org.unitsofmeasurement.impl'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.util)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.util;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.model.quantity)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.model.quantity;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.util)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.util;version="[0.5,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-console-demos/0.3.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.demos.unit-api-console-demos' presentationname='Units of Measurement API Console Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-console-demos/0.3-SNAPSHOT/unit-api-console-demos-0.3-SNAPSHOT.jar' version='0.3.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Demo.</description>
+    <size>14282</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-console-demos'/>
+      <p n='presentationname' v='Units of Measurement API Console Demos'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.types'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.quantity,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.model.quantity,org.unitsofmeasurement.impl.system,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.demo.types,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.model.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.model.quantity;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-console-demos/0.2.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.demos.unit-api-console-demos' presentationname='Units of Measurement API Console Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-console-demos/0.2-SNAPSHOT/unit-api-console-demos-0.2-SNAPSHOT.jar' version='0.2.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Demo.</description>
+    <size>13206</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-console-demos'/>
+      <p n='presentationname' v='Units of Measurement API Console Demos'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.types'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.quantity,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,org.unitsofmeasurement.impl.model.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.demo.types,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.model.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.model.quantity;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-demos/0.1.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-demos' presentationname='Units of Measurement API Demo' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-demos/0.1-SNAPSHOT/unit-api-demos-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Demo.</description>
+    <size>13319</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-demos'/>
+      <p n='presentationname' v='Units of Measurement API Demo'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.demo.types,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.types'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.model.quantity,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.1,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.model.quantity)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.model.quantity;version="[0.1,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.1,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-demos/0.1.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.demos.unit-api-demos' presentationname='Units of Measurement API Demo' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-demos/0.1-SNAPSHOT/unit-api-demos-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Demo.</description>
+    <size>13354</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-demos'/>
+      <p n='presentationname' v='Units of Measurement API Demo'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.demo.types,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.types'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.model.quantity,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.1,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.model.quantity)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.model.quantity;version="[0.1,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.1.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.1,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.impl.unit-api-enum-impl/0.4.0' symbolicname='org.unitsofmeasurement.impl.unit-api-enum-impl' presentationname='Units of Measurement API Enum Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/impl/unit-api-enum-impl/0.4/unit-api-enum-impl-0.4.jar' version='0.4.0'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Lightweight approach based on Java enums.</description>
+    <size>42553</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.impl.unit-api-enum-impl'/>
+      <p n='presentationname' v='Units of Measurement API Enum Implementation'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure,javax.measure.format'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.unit'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.enums,org.unitsofmeasurement.impl.enums.quantity,javax.measure.quantity,org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.quantity'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.format,javax.measure,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.enums.unit,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.4.0'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.impl.unit-api-enum-impl/0.4.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.impl.unit-api-enum-impl' presentationname='Units of Measurement API Enum Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/impl/unit-api-enum-impl/0.4-SNAPSHOT/unit-api-enum-impl-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Lightweight approach based on Java enums.</description>
+    <size>42607</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.impl.unit-api-enum-impl'/>
+      <p n='presentationname' v='Units of Measurement API Enum Implementation'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.format'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.unit'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.enums,org.unitsofmeasurement.impl.enums.quantity,javax.measure.quantity,org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.quantity'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.format,javax.measure,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.enums.unit,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.impl.unit-api-enum-impl/0.5.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.impl.unit-api-enum-impl' presentationname='Units of Measurement API Enum Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/impl/unit-api-enum-impl/0.5-SNAPSHOT/unit-api-enum-impl-0.5-SNAPSHOT.jar' version='0.5.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Lightweight approach based on Java enums.</description>
+    <size>46543</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.impl.unit-api-enum-impl'/>
+      <p n='presentationname' v='Units of Measurement API Enum Implementation'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.unit'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function,javax.measure,org.unitsofmeasurement.impl.enums,org.unitsofmeasurement.impl.enums.quantity,javax.measure.quantity,org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.format'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.format'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.quantity'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.enums.format,javax.measure,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.enums.unit,javax.measure.quantity'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.5,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-health-demos/0.3.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.demos.unit-api-health-demos' presentationname='Units of Measurement API Health Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-health-demos/0.3-SNAPSHOT/unit-api-health-demos-0.3-SNAPSHOT.jar' version='0.3.0.SNAPSHOT'>
+    <description>Domain Specific Demos of the Units of Measurement API</description>
+    <size>6252</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-health-demos'/>
+      <p n='presentationname' v='Units of Measurement API Health Demos'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.health'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-health-demos/0.2.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.demos.unit-api-health-demos' presentationname='Units of Measurement API Health Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-health-demos/0.2-SNAPSHOT/unit-api-health-demos-0.2-SNAPSHOT.jar' version='0.2.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Demo.</description>
+    <size>6282</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-health-demos'/>
+      <p n='presentationname' v='Units of Measurement API Health Demos'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.health'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-health-demos/0.4.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.demos.unit-api-health-demos' presentationname='Units of Measurement API Health Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-health-demos/0.4-SNAPSHOT/unit-api-health-demos-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>Domain Specific Demos of the Units of Measurement API</description>
+    <size>5924</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-health-demos'/>
+      <p n='presentationname' v='Units of Measurement API Health Demos'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.health'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.util,javax.measure,javax.measure.util,org.unitsofmeasurement.impl'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.util)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.util;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.util)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.util;version="[0.5,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.demos.unit-api-health-demos/0.3.0' symbolicname='org.unitsofmeasurement.demos.unit-api-health-demos' presentationname='Units of Measurement API Health Demos' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/demos/unit-api-health-demos/0.3/unit-api-health-demos-0.3.jar' version='0.3.0'>
+    <description>Domain Specific Demos of the Units of Measurement API</description>
+    <size>5881</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.demos.unit-api-health-demos'/>
+      <p n='presentationname' v='Units of Measurement API Health Demos'/>
+      <p n='version' t='version' v='0.3.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.demo.health'/>
+      <p n='version' t='version' v='0.3.0'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=org.unitsofmeasurement.impl.system)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package org.unitsofmeasurement.impl.system;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.impl.unit-api-full-impl/0.4.0' symbolicname='org.unitsofmeasurement.impl.unit-api-full-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/impl/unit-api-full-impl/0.4/unit-api-full-impl-0.4.jar' version='0.4.0'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Full Scale approach.</description>
+    <size>173685</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.impl.unit-api-full-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.format.internal,org.unitsofmeasurement.impl.system,javax.measure.function,org.unitsofmeasurement.impl,javax.measure.format'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.format,javax.measure.quantity,javax.measure.format,org.unitsofmeasurement.impl.system,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,javax.measure,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format.internal'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.format,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model.quantity'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure,javax.measure.quantity,org.unitsofmeasurement.impl'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.4.0'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,javax.measure.quantity,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-enum-impl/0.1.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-enum-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-enum-impl/0.1-SNAPSHOT/unit-api-enum-impl-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation.Lightweight approach based on Java enums.</description>
+    <size>36815</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-enum-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.quantity'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.unit,org.unitsofmeasurement.impl,javax.measure,javax.measure.function,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.unit'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.exception,javax.measure,javax.measure.function,org.unitsofmeasurement.impl,javax.measure.quantity'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.exception)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.exception;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.2,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-enum-impl/0.2.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-enum-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-enum-impl/0.2-SNAPSHOT/unit-api-enum-impl-0.2-SNAPSHOT.jar' version='0.2.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Lightweight approach based on Java enums.</description>
+    <size>39858</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-enum-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.unit'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.exception,javax.measure,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.enums.quantity,javax.measure.function,javax.measure.quantity,org.unitsofmeasurement.impl.enums'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.exception,javax.measure,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.quantity'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,javax.measure,javax.measure.function,org.unitsofmeasurement.impl.enums.unit,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.exception)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.exception;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.2,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-enum-impl/0.3.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-enum-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-enum-impl/0.3-SNAPSHOT/unit-api-enum-impl-0.3-SNAPSHOT.jar' version='0.3.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Lightweight approach based on Java enums.</description>
+    <size>39840</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-enum-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.unit'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.enums.quantity,javax.measure.function,javax.measure.quantity,org.unitsofmeasurement.impl.enums'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.quantity'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,javax.measure,javax.measure.function,org.unitsofmeasurement.impl.enums.unit,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-enum-impl/0.4.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-enum-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-enum-impl/0.4-SNAPSHOT/unit-api-enum-impl-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Lightweight approach based on Java enums.</description>
+    <size>40072</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-enum-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.unit'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.enums.quantity,javax.measure.function,javax.measure.quantity,org.unitsofmeasurement.impl.enums'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums.quantity'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.format,javax.measure,org.unitsofmeasurement.impl.function,javax.measure.function,org.unitsofmeasurement.impl.enums.unit,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.enums'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.format'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-impl/0.0.1.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-impl/0.0.1-SNAPSHOT/unit-api-impl-0.0.1-SNAPSHOT.jar' version='0.0.1.SNAPSHOT'>
+    <size>60075</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.0.1.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.0.1.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.quantity'/>
+      <p n='version' t='version' v='0.6.1'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.unit'/>
+      <p n='version' t='version' v='0.6.1'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.quantity'/>
+      <p n='version' t='version' v='0.0.1.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.unit,org.unitsofmeasurement.impl,org.unitsofmeasurement.quantity,org.unitsofmeasurement.unit'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.unit'/>
+      <p n='version' t='version' v='0.0.1.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit,org.unitsofmeasurement.impl,org.unitsofmeasurement.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.service'/>
+      <p n='version' t='version' v='0.6.1'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-impl/0.1.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-impl/0.1-SNAPSHOT/unit-api-impl-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <description>A lightweight implementation based on Java enums.</description>
+    <size>61414</size>
+    <documentation>http://code.google.com/p/unitsofmeasure/</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.quantity'/>
+      <p n='version' t='version' v='0.6.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.unit'/>
+      <p n='version' t='version' v='0.6.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.quantity'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.unit,org.unitsofmeasurement.impl,org.unitsofmeasurement.quantity,org.unitsofmeasurement.unit'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.unit'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit,org.unitsofmeasurement.impl,org.unitsofmeasurement.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.service'/>
+      <p n='version' t='version' v='0.6.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.unit'/>
+    </capability>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-full-impl/0.4.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-full-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-full-impl/0.4-SNAPSHOT/unit-api-full-impl-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Full Scale approach.</description>
+    <size>168787</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-full-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.util'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function.internal'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.function,javax.measure.quantity,javax.measure.format,org.unitsofmeasurement.impl.system,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function,javax.measure,org.unitsofmeasurement.impl.function.internal,org.unitsofmeasurement.impl,javax.measure.format,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,javax.measure,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model.quantity'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.quantity,org.unitsofmeasurement.impl'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,javax.measure.quantity,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-full-impl/0.2.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-full-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-full-impl/0.2-SNAPSHOT/unit-api-full-impl-0.2-SNAPSHOT.jar' version='0.2.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Full Scale approach.</description>
+    <size>168839</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-full-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function.internal'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.exception,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,org.unitsofmeasurement.impl.function,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model.quantity'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl,javax.measure,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.function,javax.measure.function,javax.measure.exception,org.unitsofmeasurement.impl.system,javax.measure.quantity,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,javax.measure.quantity,org.unitsofmeasurement.impl.model,org.unitsofmeasurement.impl.function,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.util'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.2.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function,org.unitsofmeasurement.impl.function.internal,javax.measure.exception,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.3.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.3,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.exception)(version&gt;=0.3.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.exception;version="[0.3,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.3.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.3,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.3.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.3,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-full-impl/0.3.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-full-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-full-impl/0.3-SNAPSHOT/unit-api-full-impl-0.3-SNAPSHOT.jar' version='0.3.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Full Scale approach.</description>
+    <size>168784</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-full-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function.internal'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,org.unitsofmeasurement.impl.function,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model.quantity'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl,javax.measure,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.function,javax.measure.function,org.unitsofmeasurement.impl.system,javax.measure.quantity,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,javax.measure.quantity,org.unitsofmeasurement.impl.model,org.unitsofmeasurement.impl.function,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.util'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.3.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function,org.unitsofmeasurement.impl.function.internal,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.unit-api-full-impl/0.1.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.unit-api-full-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/unit-api-full-impl/0.1-SNAPSHOT/unit-api-full-impl-0.1-SNAPSHOT.jar' version='0.1.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Full Scale approach.</description>
+    <size>168149</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.unit-api-full-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function.internal'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,org.unitsofmeasurement.impl.function,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model.quantity'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl,javax.measure,javax.measure.quantity'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.function,javax.measure.function,javax.measure.exception,org.unitsofmeasurement.impl.system,javax.measure.quantity,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,javax.measure.quantity,org.unitsofmeasurement.impl.model,org.unitsofmeasurement.impl.function,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.util'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.1.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function,org.unitsofmeasurement.impl.function.internal,javax.measure.exception,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.exception)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.exception;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.2,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.2.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.2,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.impl.unit-api-full-impl/0.4.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.impl.unit-api-full-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/impl/unit-api-full-impl/0.4-SNAPSHOT/unit-api-full-impl-0.4-SNAPSHOT.jar' version='0.4.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Full Scale approach.</description>
+    <size>173718</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.impl.unit-api-full-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.format.internal,org.unitsofmeasurement.impl.system,javax.measure.function,org.unitsofmeasurement.impl,javax.measure.format'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.format,javax.measure.quantity,javax.measure.format,org.unitsofmeasurement.impl.system,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,javax.measure,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.system,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format.internal'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.format,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.system'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model.quantity'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.quantity,org.unitsofmeasurement.impl'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.system'/>
+      <p n='version' t='version' v='0.4.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl,javax.measure.quantity,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.4,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.4.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.4,1)"</require>
+  </resource>
+  <resource id='org.unitsofmeasurement.impl.unit-api-full-impl/0.5.0.SNAPSHOT' symbolicname='org.unitsofmeasurement.impl.unit-api-full-impl' presentationname='Units of Measurement API Implementation' uri='file:/C:/Users/Werner/.m2/repository/org/unitsofmeasurement/impl/unit-api-full-impl/0.5-SNAPSHOT/unit-api-full-impl-0.5-SNAPSHOT.jar' version='0.5.0.SNAPSHOT'>
+    <description>An intial (Spec Lead) draft of a Unit Standard Implementation. Full Scale approach.</description>
+    <size>176085</size>
+    <documentation>http://www.unitsofmeasurement.org</documentation>
+    <license>LICENSE.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.unitsofmeasurement.impl.unit-api-full-impl'/>
+      <p n='presentationname' v='Units of Measurement API Implementation'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.util'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.util,org.unitsofmeasurement.impl,javax.measure.quantity,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.util,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.format.internal,javax.measure.function,org.unitsofmeasurement.impl,javax.measure.format'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.function,org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.util,org.unitsofmeasurement.impl.format,javax.measure.quantity,javax.measure.format,org.unitsofmeasurement.impl.model'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.function'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='org.unitsofmeasurement.impl.function,org.unitsofmeasurement.impl.util,javax.measure,org.unitsofmeasurement.impl,javax.measure.quantity,javax.measure.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.format.internal'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,org.unitsofmeasurement.impl.util,javax.measure.function,org.unitsofmeasurement.impl.format,org.unitsofmeasurement.impl,org.unitsofmeasurement.impl.function'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.unitsofmeasurement.impl.model.quantity'/>
+      <p n='version' t='version' v='0.5.0.SNAPSHOT'/>
+      <p n='uses:' v='javax.measure,javax.measure.quantity,org.unitsofmeasurement.impl'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.measure)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.format)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.format;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.function)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.function;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.quantity)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.quantity;version="[0.5,1)"</require>
+    <require name='package' filter='(&amp;(package=javax.measure.util)(version&gt;=0.5.0)(!(version&gt;=1.0.0)))' extend='false' multiple='false' optional='false'>Import package javax.measure.util;version="[0.5,1)"</require>
+  </resource>
+</repository>
