@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>javax.measure</groupId>
-    <artifactId>unit-api-parent</artifactId>
+    <artifactId>unit-api</artifactId>
     <version>0.4</version>
   </parent>
   <packaging>bundle</packaging>
@@ -13,6 +13,11 @@
   		<artifactId>unit-api-core</artifactId>
   		<version>${jsr.version}</version>
   	</dependency>
+  	<dependency>
+        <groupId>javax.measure</groupId>
+        <artifactId>unit-api-util</artifactId>
+        <version>${jsr.version}</version>
+    </dependency>
   	<dependency>
   		<groupId>javax.measure</groupId>
   		<artifactId>unit-api-format</artifactId>
