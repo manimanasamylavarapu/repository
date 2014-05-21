@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <version>0.5-SNAPSHOT</version>
+        <artifactId>unitsofmeasurement-parent</artifactId>
+        <groupId>org.unitsofmeasurement</groupId>
+    </parent>
+    <groupId>com.opower.unitsofmeasure</groupId>
+    <artifactId>jackson-module-unitsofmeasure</artifactId>
+    <packaging>jar</packaging>
+    <version>1.2-uom</version>
+
+    <name>Jackson Unit of Measure Module</name>
+    <description>Contains custom serializers and deserializers for org.unitsofmeasurement classes.</description>
+
+    <repositories>
+        <repository>
+            <id>jscience-local-repo</id>
+            <name>Local repository for the "5.0-opower" JScience version we depend on</name>
+            <url>https://github.com/opower/jackson-module-unitsofmeasure/raw/master/repo</url>
+        </repository>
+    </repositories>
+    
+    <!-- ======================================================= -->
+    <!-- Build Settings -->
+    <!-- ======================================================= -->
+    <properties>
+        <project.build.javaVersion>1.7</project.build.javaVersion>
+        <jdkVersion>1.7</jdkVersion>
+        <maven.compile.targetLevel>${jdkVersion}</maven.compile.targetLevel>
+        <maven.compile.sourceLevel>${jdkVersion}</maven.compile.sourceLevel>
+        <ri.version>0.2-SNAPSHOT</ri.version>
+        <lib.version>0.1-SNAPSHOT</lib.version>
+        <jackson.version>2.2.2</jackson.version>
+    </properties>
+
+    <dependencies>
+        <!-- =========================================================================================================== -->
+        <!-- The units of measurement interface is in the org.unitsofmeasurement package.                                -->
+        <!-- The implementation is provided by JScience                                                                  -->
+        <!-- =========================================================================================================== -->
+        <dependency>
+            <groupId>org.unitsofmeasurement</groupId>
+            <artifactId>unit-api</artifactId>
+            <version>0.6.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jscience</groupId>
+            <artifactId>jscience-physics</artifactId>
+            <version>5.0-opower</version>
+        </dependency>
+
+        <!-- =========================================================================================================== -->
+        <!-- Jackson library for JSON-parsing                                                                            -->
+        <!-- =========================================================================================================== -->
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-core</artifactId>
+            <version>${jackson.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>${jackson.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>${jdkVersion}</source>
+                    <target>${jdkVersion}</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

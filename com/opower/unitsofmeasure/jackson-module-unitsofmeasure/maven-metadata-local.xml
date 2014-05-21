@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.opower.unitsofmeasure</groupId>
+  <artifactId>jackson-module-unitsofmeasure</artifactId>
+  <versioning>
+    <release>1.2-uom</release>
+    <versions>
+      <version>1.1.0</version>
+      <version>1.2-SNAPSHOT</version>
+      <version>1.2-uom-SNAPSHOT</version>
+      <version>1.2-uom</version>
+    </versions>
+    <lastUpdated>20140521214133</lastUpdated>
+  </versioning>
+</metadata>

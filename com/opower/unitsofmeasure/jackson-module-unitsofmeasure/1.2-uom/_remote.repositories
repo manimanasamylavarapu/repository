@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 21 23:41:33 CEST 2014
+jackson-module-unitsofmeasure-1.2-uom-sources.jar>=
+jackson-module-unitsofmeasure-1.2-uom-tests.jar>=
+jackson-module-unitsofmeasure-1.2-uom.jar>=
+jackson-module-unitsofmeasure-1.2-uom.pom>=
