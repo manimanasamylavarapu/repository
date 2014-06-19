@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jun 19 20:37:57 CEST 2014
+unit-api-core-0.5.pom>=
+unit-api-core-0.5-tests.jar>=
+unit-api-core-0.5.jar>=

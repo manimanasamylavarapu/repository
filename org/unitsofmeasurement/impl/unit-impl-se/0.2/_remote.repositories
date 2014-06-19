@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 19 21:17:08 CEST 2014
+unit-impl-se-0.2-tests.jar>=
+unit-impl-se-0.2-javadoc.jar>=
+unit-impl-se-0.2.jar>=
+unit-impl-se-0.2.pom>=
