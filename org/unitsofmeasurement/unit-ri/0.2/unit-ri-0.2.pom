@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>unit-ri</artifactId>
-	<version>0.2-SNAPSHOT</version>
+	<version>0.2</version>
 	<packaging>bundle</packaging>
 	<name>Units of Measurement Reference Implementation</name>
 	<url>http://github.com/unitsofmeasurement/unit-ri</url>
@@ -14,7 +14,7 @@
 	<parent>
 		<groupId>org.unitsofmeasurement</groupId>
 		<artifactId>unitsofmeasurement-parent</artifactId>
-		<version>0.5-SNAPSHOT</version>
+		<version>0.5</version>
 	</parent>
 
 	<licenses>
@@ -28,10 +28,10 @@
 	<!-- Build Settings -->
 	<!-- ======================================================= -->
 	<properties>
-	   <jdkVersion>1.8</jdkVersion>
-		<project.build.javaVersion>1.7</project.build.javaVersion>
-		<maven.compile.targetLevel>1.8</maven.compile.targetLevel>
-		<maven.compile.sourceLevel>1.7</maven.compile.sourceLevel>
+	   <jdkVersion>1.7</jdkVersion>
+		<project.build.javaVersion>${jdkVersion}</project.build.javaVersion>
+		<maven.compile.targetLevel>1.5</maven.compile.targetLevel>
+		<maven.compile.sourceLevel>${jdkVersion}</maven.compile.sourceLevel>
 	</properties>
 
 	<!-- Developers and Contributors -->
