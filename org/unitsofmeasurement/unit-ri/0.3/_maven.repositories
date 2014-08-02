@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Aug 03 00:10:31 CEST 2014
+unit-ri-0.3.pom>=
+unit-ri-0.3-tests.jar>=
+unit-ri-0.3.jar>=
