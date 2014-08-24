@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Aug 24 01:55:18 CEST 2014
+unit-ri-0.5-SNAPSHOT.jar>=
+unit-ri-0.5-SNAPSHOT.pom>=
+unit-ri-0.5-SNAPSHOT-tests.jar>=

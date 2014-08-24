@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 24 01:53:41 CEST 2014
+uom-se-0.5-SNAPSHOT.jar>=
+uom-se-0.5-SNAPSHOT.pom>=
+uom-se-0.5-SNAPSHOT-tests.jar>=

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>tec.uom.impl</groupId>
+  <artifactId>uom-impl-enum</artifactId>
+  <versioning>
+    <versions>
+      <version>0.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140824003354</lastUpdated>
+  </versioning>
+</metadata>
