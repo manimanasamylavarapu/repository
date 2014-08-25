@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>tec.uom</groupId>
+  <groupId>tec.units</groupId>
   <artifactId>unit-ri</artifactId>
   <versioning>
     <versions>
       <version>0.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140823235518</lastUpdated>
+    <lastUpdated>20140825224056</lastUpdated>
   </versioning>
 </metadata>

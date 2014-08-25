@@ -1,16 +1,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>unit-ri</artifactId>
-	<version>0.5-SNAPSHOT</version>
-	<packaging>bundle</packaging>
-	<name>Units of Measurement Reference Implementation</name>
-	<url>http://github.com/unitsofmeasurement/unit-ri</url>
+	<artifactId>unit-tck</artifactId>
+	<version>0.1-SNAPSHOT</version>
+	<packaging>jar</packaging> <!-- bundle? -->
+	<name>Units of Measurement TCK</name>
+	<url>http://github.com/unitsofmeasurement/unit-tck</url>
 	<organization>
 		<name>Units of Measurement project</name>
 		<url>http://www.unitsofmeasurement.org</url>
 	</organization>
-	<description>Unit Standard (JSR 363) Reference Implementation.</description>
+	<description>Unit Standard (JSR 363) TCK.</description>
 	<parent>
 		<groupId>tec.uom</groupId>
 		<artifactId>uom-parent</artifactId>
@@ -23,7 +23,11 @@
 			<url>LICENSE.txt</url>
 		</license>
 	</licenses>
-
+    <issueManagement>
+        <system>JIRA</system>
+        <url>https://java.net/jira/browse/UNITSOFMEASUREMENT</url>
+    </issueManagement>
+    
 	<!-- ======================================================= -->
 	<!-- Build Settings -->
 	<!-- ======================================================= -->
@@ -114,8 +118,8 @@
 				<extensions>true</extensions>
 				<configuration>
 					<instructions>
-						<Export-Package>tec.uom.ri.*</Export-Package>
-						<Private-Package>tec.uom.ri.format.internal.*</Private-Package>
+						<Export-Package>tec.uom.tck.*</Export-Package>
+						<Private-Package>tec.uom.tck.internal.*</Private-Package>
 					</instructions>
 				</configuration>
 			</plugin>
@@ -296,10 +300,7 @@
 		</profile>
 	</profiles>
 	<scm>
-		<url>https://github.com/unitsofmeasurement/unit-ri.git</url>
+		<url>https://github.com/unitsofmeasurement/unit-tck.git</url>
 	</scm>
-	<issueManagement>
-		<system>JIRA</system>
-		<url>https://java.net/jira/browse/UNITSOFMEASUREMENT</url>
-	</issueManagement>
+	<groupId>tec.units</groupId>
 </project>
