@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Nov 01 14:40:01 CET 2014
+uom-lib-common-0.4.jar>=
+uom-lib-common-0.4.pom>=
+uom-lib-common-0.4-tests.jar>=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 17:24:34 CEST 2014
+uom-lib-common-0.4-SNAPSHOT.jar>=
+uom-lib-common-0.4-SNAPSHOT.pom>=
+uom-lib-common-0.4-SNAPSHOT-tests.jar>=
